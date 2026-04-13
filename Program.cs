@@ -1,4 +1,4 @@
-// File.WriteAllText("myfile.txt", "Hi Muste");
+// File.WriteAllText("MyNewFile.txt", "Hi Muste");
 // Console.WriteLine("Your file has been created.");
 
 // var desktopPath = @"C:\Users\ZAYNAB\Desktop";
