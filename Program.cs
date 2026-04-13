@@ -1,3 +1,21 @@
+// File.WriteAllText("myfile.txt", "Hi Muste");
+// Console.WriteLine("Your file has been created.");
+
+// var desktopPath = @"C:\Users\ZAYNAB\Desktop";
+// var aFileFilePath = $"{desktopPath}aFile.txt";
+// Console.WriteLine("Your file has been created");
+
+// var myNewFile = $"{desktopPath}myNewFolder";
+// File.Create($"{desktopPath}testing");
+
+
+
+//Assignment
+//Write a code in your program.cs that.....
+//Create a file called MGQSFile.txt in desktop
+//Create a folder called MGQSFIle.txt from your desktop into MGQSFolder
+//Delete MGQSFolder
+//Type your full name in 10 different rows inside of MGQSFile.txt in desktop and copy the content of MGQSFile.txt into a new file MGQSFile.docx in desktop
 string desktopPath = @"C:\Users\Mustakim\OneDrive\Desktop";
 string fileName = "MGQSFile.txt";
 string folderName = "MGQSFolder";
